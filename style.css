@@ -1,0 +1,54 @@
+SELECT * FROM Customers;
+<?php
+echo "My first PHP script!";
+?>
+<?php
+$txt = "PHP";
+echo "I love $txt!";
+?>
+<?php
+ECHO "Hello World!<br>";
+echo "Hello World!<br>";
+EcHo "Hello World!<br>";
+?>
+<?php
+$color = "red";
+echo "My car is " . $color . "<br>";
+echo "My house is " . $COLOR . "<br>";
+echo "My boat is " . $coLOR . "<br>";
+?>
+@font-face {
+  font-family: myFirstFont;
+  src: url(sansation_light.woff);
+}
+
+div {
+  font-family: myFirstFont;
+}
+<!DOCTYPE html>
+<html>
+    <head>
+        <!--This is heading-->
+        <!--This is comment-->
+        <!--<p>This is a paragrapgh</p>-->
+        <h1>this is heading</h1>
+        <style>
+            h1{
+                padding-top:30px;
+            }
+        </style>
+        <style>
+            body {
+                background-color: yellow;
+                font-family: courier;
+                color:red;
+                
+                            
+
+            }
+        </style>
+    </head>
+    <body>
+        <h1>My Home Page</h1>
+        </body>
+</html>
